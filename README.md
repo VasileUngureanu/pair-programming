@@ -4,6 +4,8 @@
 
 > A collection of resources about Pair Programming
 
+There are hundreds and thousands of resources on the internet for this topic, but only a few of them have a high concentration of valuable content.
+
 ## Contents
 
 * [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
