@@ -8,7 +8,12 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
+### Enough to be dangerous
+
 * [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
+
+### To master, continue with
+
 * [Pair programming: making the whole greater than the sum of its parts](https://nvoulgaris.com/pair-programming-making-the-whole-greater-than-the-sum-of-its-parts/)
 * [Seven principles of pair programming etiquette](https://www.thoughtworks.com/insights/blog/seven-principles-pair-programming-etiquette?utm_source=twitter&utm_medium=social&utm_campaign=tech)
 * [Pair Programming Explained](https://engineering.shopify.com/blogs/engineering/pair-programming-explained)
